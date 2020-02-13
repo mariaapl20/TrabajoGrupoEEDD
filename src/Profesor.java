@@ -97,6 +97,12 @@ public class Profesor implements IPersona, ITrabajador, IProfesor{
 		return sResultado;
 	}
 
+	public String sDimeUniversidad() {
+		sResultado="";
+		sResultado="Estas en " +this.getsDni()+" universidad";
+		return sResultado;
+	}
+	
 	public void cambio() {}
 }
 
