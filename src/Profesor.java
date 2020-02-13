@@ -90,6 +90,12 @@ public class Profesor implements IPersona, ITrabajador, IProfesor{
 		sResultado="Los apellidos de la persona es"+ this.getsApellidos();
 		return String;
 	}
+	
+	public String Dni() {
+		sResultado="";
+		sResultado="El dni de la persona es" +this.getsDni();
+		return String;
+	}
 
 	public void cambio() {}
 }
