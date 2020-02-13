@@ -88,13 +88,13 @@ public class Profesor implements IPersona, ITrabajador, IProfesor{
 	public String Apellido() {
 		sResultado="";
 		sResultado="Los apellidos de la persona es"+ this.getsApellidos();
-		return String;
+		return sResultado;
 	}
 	
 	public String Dni() {
 		sResultado="";
 		sResultado="El dni de la persona es" +this.getsDni();
-		return String;
+		return sResultado;
 	}
 
 	public void cambio() {}
