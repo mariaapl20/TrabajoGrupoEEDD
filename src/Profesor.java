@@ -81,9 +81,15 @@ public class Profesor implements IPersona, ITrabajador, IProfesor{
 	}
 	@Override
 	public void setbFuncionario(boolean bFuncionario) {
+		
 		this.bFuncionario = bFuncionario;
 	}
 
+	public String Apellido() {
+		sResultado="";
+		sResultado="Los apellidos de la persona es"+ this.getsApellidos();
+		return String;
+	}
 
 	public void cambio() {}
 }
