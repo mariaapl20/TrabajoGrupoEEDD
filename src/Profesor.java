@@ -129,7 +129,7 @@ public class Profesor implements IPersona, ITrabajador, IProfesor{
 	public string Antiguedad() {
 		sResultado="";
 		sResultado="La Antiguedad de la persona es"+ this.getiAntiguedad();
-		return sResultado;
+		return sResultado ; 
 	}
 	
 	
