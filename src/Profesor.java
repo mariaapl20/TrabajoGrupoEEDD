@@ -94,7 +94,7 @@ public class Profesor implements IPersona, ITrabajador, IProfesor{
 	public String Dni() {
 		sResultado="";
 		sResultado="El dni de la persona es" +this.getsDni();
-		return sResultado;
+		return sResultado ;
 	}
 
 	public String sDimeUniversidad() {
