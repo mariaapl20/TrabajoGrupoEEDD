@@ -106,7 +106,7 @@ public class Profesor implements IPersona, ITrabajador, IProfesor{
 	public int Edad() {
 		sResultado="";
 		sResultado="La edad de la persona es"+ this.getsEdad();
-		return sResultado;
+		return sResultado ;
 	}
 	
 	public string Nombre() {
