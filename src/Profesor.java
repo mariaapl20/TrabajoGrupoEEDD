@@ -87,7 +87,7 @@ public class Profesor implements IPersona, ITrabajador, IProfesor{
 
 	public String Apellido() {
 		sResultado="";
-		sResultado="Los apellidos de la persona es"+ this.getsApellidos();
+		sResultado="Los apellidos son"+ this.getsApellidos();
 		return sResultado;
 	}
 	
