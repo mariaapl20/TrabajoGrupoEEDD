@@ -1,4 +1,4 @@
-# TrabajoGrupo_EEDD
+# TrabajoGrupoEEDD
 
 **[![Gitter](https://badges.gitter.im/TrabajoGrupalEEDDMedac/community.svg)](https://gitter.im/TrabajoGrupalEEDDMedac/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)**
 
@@ -8,6 +8,7 @@ Nuestro trabajo de grupo consiste en simular lo que tendrian que hacer un grupo 
 
 **Integrantes del grupo**
 - María Pérez Ledesma
+- Fernando Romero Palacios
 - José Antonio López Carrillo
 - José Eduardo Vega De La Hera 
-- Fernando Romero Palacios
+
