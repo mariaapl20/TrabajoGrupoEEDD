@@ -77,7 +77,7 @@ public class Profesor implements IPersona, ITrabajador, IProfesor{
 	}
 	@Override
 	public boolean isbFuncionario() {
-		return bFuncionario;
+		return bFuncionario ;
 	}
 	@Override
 	public void setbFuncionario(boolean bFuncionario) {
