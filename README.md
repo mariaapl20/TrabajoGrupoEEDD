@@ -9,3 +9,5 @@ Nuestro trabajo de grupo consiste en simular lo que tendrian que hacer un grupo 
 **Integrantes del grupo**
 - María Pérez Ledesma
 - José Antonio López Carrillo
+- José Eduardo Vega De La Hera 
+- Fernando Romero Palacios
