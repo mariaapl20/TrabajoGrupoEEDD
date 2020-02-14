@@ -93,7 +93,7 @@ public class Profesor implements IPersona, ITrabajador, IProfesor{
 	
 	public String Dni() {
 		sResultado="";
-		sResultado="El dni de la persona es" +this.getsDni();
+		sResultado="El dni es" +this.getsDni();
 		return sResultado ;
 	}
 
@@ -111,7 +111,7 @@ public class Profesor implements IPersona, ITrabajador, IProfesor{
 	
 	public string Nombre() {
 		sResultado="";
-		sResultado="El nombre de la persona es"+ this.getsNombre();
+		sResultado="El nombre es"+ this.getsNombre();
 		return sResultado ;
 	}
 	
