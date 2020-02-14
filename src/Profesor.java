@@ -115,6 +115,25 @@ public class Profesor implements IPersona, ITrabajador, IProfesor{
 		return sResultado;
 	}
 	
+	public String Funcionario() {
+		boolean bFuncionario=true;
+		String sResultado="";
+		if(bFuncionario) {
+			sResultado="La persona es funcionario."
+		}else{
+			sResultado="La persona no es funcionario."
+		}
+		return sResultado;	
+	}
+	
+	public string Antiguedad() {
+		sResultado="";
+		sResultado="La Antiguedad de la persona es"+ this.getiAntiguedad();
+		return sResultado;
+	}
+	
+	
+	
 	public void cambio() {}
 }
 
