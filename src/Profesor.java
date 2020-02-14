@@ -112,7 +112,7 @@ public class Profesor implements IPersona, ITrabajador, IProfesor{
 	public string Nombre() {
 		sResultado="";
 		sResultado="El nombre de la persona es"+ this.getsNombre();
-		return sResultado;
+		return sResultado ;
 	}
 	
 	public String Funcionario() {
